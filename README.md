@@ -1,7 +1,7 @@
 
 # Medium Clone
 
-A clone of webiste "[medium.com](https://medium.com)" in NodeJs.
+A clone of webiste "[medium.com](https://medium.com)" in NodeJs made for the audition task at @TechnoJam.
 
 ## Badges
 
@@ -12,11 +12,11 @@ A clone of webiste "[medium.com](https://medium.com)" in NodeJs.
 
 ## Screenshots
 
-![Screenshot](https://storage.viperadnan.ga/0:/Store%20Room/assets/misc/beautify-picture.png)
-![Screenshot](https://storage.viperadnan.ga/0:/Store%20Room/assets/misc/beautify-picture%20(1).png)
-![Screenshot](https://storage.viperadnan.ga/0:/Store%20Room/assets/misc/beautify-picture%20(2).png)
-![Screenshot](https://storage.viperadnan.ga/0:/Store%20Room/assets/misc/beautify-picture%20(3).png)
-![Screenshot](https://storage.viperadnan.ga/0:/Store%20Room/assets/misc/image%20(3).png)
+![Screenshot](https://i.postimg.cc/j5T24GqX/beautify-picture.png)
+![Screenshot](https://i.postimg.cc/MHvS7DB5/beautify-picture-1.png)
+![Screenshot](https://i.postimg.cc/DwqKPmS9/beautify-picture-2.png)
+![Screenshot](https://i.postimg.cc/SRXB2K0t/beautify-picture-3.png)
+![Screenshot](https://i.postimg.cc/CLc8LLMV/image-3.png)
 
 ## Features
 
