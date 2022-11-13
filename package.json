@@ -1,0 +1,24 @@
+{
+  "name": "moodium",
+  "version": "1.0.0",
+  "description": "Blogging website",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https:/"
+  },
+  "keywords": [
+    "moodim"
+  ],
+  "author": "viperadnan",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "sequelize": "^6.25.5",
+    "sqlite3": "^5.1.2"
+  }
+}
